@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "とげとげサディスティック (5人 Ver.)",
+  "base_artist": "エノルミータ",
+  "createdAt": "2026-03-19T07:17:19.940155Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とげとげサディスティック - 5人 Ver.",
+      "artist": "エノルミータ",
+      "has_synced": false,
+      "path": "select/pl_01_とげとげサディスティック_-_5人_Ver._エノルミータ.txt"
+    }
+  ]
+}
